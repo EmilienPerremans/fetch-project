@@ -1,0 +1,17 @@
+{
+    "produits": [
+      {
+        "nom": "Montre élégante",
+        "description": "Une montre élégante pour homme",
+        "prix": 99.99,
+        "image": "https://example.com/montre.jpg"
+      },
+      {
+        "nom": "Chaussures de course",
+        "description": "Chaussures de course légères et confortables",
+        "prix": 79.99,
+        "image": "https://example.com/chaussures.jpg"
+      }
+    ]
+  }
+  

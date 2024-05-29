@@ -1,0 +1,34 @@
+{
+    "personnel": [
+      {
+        "nom": "Jean Dupont",
+        "âge": 35,
+        "poste": "Ingénieur",
+        "email": "jean.dupont@example.com",
+        "téléphone": "+1234567890"
+      },
+      {
+        "nom": "Marie Leclerc",
+        "âge": 28,
+        "poste": "Développeur",
+        "email": "marie.leclerc@example.com",
+        "téléphone": "+1987654321"
+      },
+      {
+        "nom": "Pauline Lambert",
+        "âge": 42,
+        "poste": "Manager",
+        "email": "pauline.lambert@example.com",
+        "téléphone": "+1122334455"
+      }
+      ,
+      {
+        "nom": "nicola Chien",
+        "âge": 42,
+        "poste": "Manager",
+        "email": "pauline.lambert@example.com",
+        "téléphone": "+1122334455"
+      }
+    ]
+  }
+  
